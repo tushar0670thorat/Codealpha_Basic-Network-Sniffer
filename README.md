@@ -5,7 +5,7 @@ Build a Python program to capture network traffic packets. ● Analyze captured 
 
 ## Project Title
 
-Build a Python program to capture network traffic packets.
+Basic Network Sniffer 
 
 ------------------------------------------------------------------------
 
