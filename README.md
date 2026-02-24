@@ -78,4 +78,4 @@ Press **Ctrl + C** to stop capturing packets.
 
 ## Author
 
-Python Network Traffic Capture Project
+Basic Network Sniffer By Tushar Thorat
